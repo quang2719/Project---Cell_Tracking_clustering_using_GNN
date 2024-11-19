@@ -2,7 +2,7 @@
 
 ## Project Introduction
 
-This project focuses on cell clustering based on coordinates from each frame extracted from a pretrained GNN model in [Graph Neural Network for Cell Tracking in Microscopy Videos (ECCV 2022)](https://github.com/talbenha/cell-tracker-gnn/tree/main). The dataset used is the **Fluo_C2DL_Huh7** from the Cell Tracking Challenge.
+This project focuses on cell clustering based on coordinates from each frame extracted from a pretrained GNN model in [Graph Neural Network for Cell Tracking in Microscopy Videos (ECCV 2022)](https://github.com/talbenha/cell-tracker-gnn/tree/main). The dataset used is the **Fluo_C2DL_Huh7** from the Cell Tracking Challenge. This project was conducted under the guidance of my university professor.
 ## Dataset
 
 The dataset consists of 30 frames and contains 37 cells. It provides rich information for tracking and analyzing cell movements over time. Below are demo images and a video of the dataset:
